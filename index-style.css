@@ -1,7 +1,25 @@
 #main-content {
-    padding: 50px;
-    margin-top: 50px;
+    padding: 50px 20px;
+    margin: 50px 30px;
     border: 5px solid black;
     align-items: left;
     width: 50%;
+    height: 70%;
+}
+
+#about-me-heading {
+    border-bottom: 2px solid black;
+}
+
+#about-me-paragraph img{
+    float: left;
+    margin: 10px;
+}
+
+#about-me-paragraph p {
+    
+}
+
+footer {
+    border-top: 5px solid teal;
 }
