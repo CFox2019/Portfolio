@@ -9,15 +9,12 @@
 
 #about-me-heading {
     border-bottom: 2px solid black;
+    margin-bottom: 20px;
 }
 
 #about-me-paragraph img{
     float: left;
     margin: 10px;
-}
-
-#about-me-paragraph p {
-    
 }
 
 footer {
