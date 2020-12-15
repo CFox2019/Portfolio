@@ -1,8 +1,25 @@
+body {
+    background-color: #66b0ff;
+}
+
+#navbar {
+    color: #004080;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+}
+
 #contact-form {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #f2f2f2;
     padding: 50px 20px;
     margin: 50px 30px;
-    border: 5px solid black;
+    border: 1px solid white;
+    border-radius: 20px;
     align-items: left;
-    width: 60%;
+    width: 57%;
     height: 70%;
+}
+
+footer {
+    border-top: 2px solid #e6f2ff;
 }
