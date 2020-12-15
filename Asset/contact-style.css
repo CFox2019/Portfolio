@@ -2,10 +2,11 @@ body {
     background-color: #66b0ff;
 }
 
-#navbar {
-    color: #004080;
+.navbar-brand {
+    color: #66b0ff;
+    font-size: 2em;
     font-family: 'Quicksand', sans-serif;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 #contact-form {

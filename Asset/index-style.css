@@ -2,10 +2,16 @@ body {
     background-color: #66b0ff;
 }
 
-#navbar {
-    color: #004080;
+.navbar-brand {
+    color: #66b0ff;
+    font-size: 2.5em;
     font-family: 'Quicksand', sans-serif;
-    font-weight: bold;
+    font-weight: 600;
+}
+
+h1 {
+    color: #66b0ff;
+    font-weight: 600;
 }
 
 #main-content {
