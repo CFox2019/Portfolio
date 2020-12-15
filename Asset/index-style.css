@@ -14,15 +14,15 @@ h1 {
     font-weight: 600;
 }
 
-#main-content {
+#about-me-main {
     font-family: 'Quicksand', sans-serif;
     background-color: #f2f2f2;
     padding: 50px 20px;
-    margin: 50px 30px;
+    margin: 50px 20px;
     border: 1px solid whitesmoke;
     border-radius: 20px;
-    align-items: left;
-    width: 57%;
+    float: left;
+    width: 50%;
     height: 70%;
 }
 
