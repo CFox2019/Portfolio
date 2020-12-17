@@ -3,12 +3,9 @@
 #contact-form {
     font-family: 'Quicksand', sans-serif;
     background-color: #f2f2f2;
-    padding: 50px 20px;
-    margin: 50px 30px;
+    padding: 20px;
+    margin: 20px 0px;
     border: 1px solid white;
     border-radius: 20px;
-    align-items: left;
-    width: 57%;
-    height: 70%;
 }
 
