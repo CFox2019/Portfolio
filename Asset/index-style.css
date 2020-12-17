@@ -1,29 +1,12 @@
-body {
-    background-color: #66b0ff;
-}
-
-.navbar-brand {
-    color: #66b0ff;
-    font-size: 2.5em;
-    font-family: 'Quicksand', sans-serif;
-    font-weight: 600;
-}
-
-h1 {
-    color: #66b0ff;
-    font-weight: 600;
-}
+@import "common.css";
 
 #about-me-main {
     font-family: 'Quicksand', sans-serif;
     background-color: #f2f2f2;
-    padding: 50px 20px;
-    margin: 50px 20px;
+    padding: 20px;
+    margin: 20px 0px;
     border: 1px solid whitesmoke;
     border-radius: 20px;
-    float: left;
-    width: 50%;
-    height: 70%;
 }
 
 #about-me-heading {
@@ -34,8 +17,4 @@ h1 {
 #about-me-paragraph img{
     float: left;
     margin: 10px;
-}
-
-footer {
-    border-top: 2px solid #e6f2ff;
 }

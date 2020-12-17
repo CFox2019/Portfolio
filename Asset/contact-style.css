@@ -1,13 +1,4 @@
-body {
-    background-color: #66b0ff;
-}
-
-.navbar-brand {
-    color: #66b0ff;
-    font-size: 2em;
-    font-family: 'Quicksand', sans-serif;
-    font-weight: 600;
-}
+@import "common.css";
 
 #contact-form {
     font-family: 'Quicksand', sans-serif;
@@ -21,6 +12,3 @@ body {
     height: 70%;
 }
 
-footer {
-    border-top: 2px solid #e6f2ff;
-}

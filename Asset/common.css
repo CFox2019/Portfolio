@@ -1,0 +1,34 @@
+body {
+    background-color: #66b0ff;
+}
+
+.navbar-light .navbar-brand {
+    color: #66b0ff;
+    font-size: 2.5em;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: #3680cf;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1em;
+    font-weight: 600;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #66b0ff;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1em;
+    font-weight: 600;
+}
+
+h1 {
+    color: #66b0ff;
+    font-weight: 600;
+}
+
+footer {
+    border-top: 2px solid #e6f2ff;
+}
+
