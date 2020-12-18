@@ -17,7 +17,6 @@
 
 .col {
     margin-bottom: 10px;
-    /* width: 50%; */
 }
 
 .image-thumbnail {
@@ -28,26 +27,12 @@
 /* small screen class - for example: tablets */
 @media only screen and (max-width: 768px) and (min-width: 401px) {
     #portfolio-content {
-        /* width: 375px; */
         padding: 20px;
     }
-
-    /* .col {
-        margin: 0px 10px 10px 10px;
-    } */
 }
 
 /* large screen class - for example: desktop or laptop browser */
 @media only screen and (max-width: 992px) and (min-width: 769px) {
-    .container {
-        /* width: 100%;
-        max-width: 100%; */
-    }
-
-    .row {
-        flex-direction: row;
-    }
-
     .col {
         margin-bottom: 20px;
     }
@@ -66,6 +51,7 @@
     }
 
     .row {
+        flex-direction: row;
         margin-left: 20px;
         margin-right: 20px;
     }
