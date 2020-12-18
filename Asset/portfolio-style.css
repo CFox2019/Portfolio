@@ -12,9 +12,30 @@
 
 .col {
     margin-bottom: 10px;
+    width: 50%;
 }
 
 .image-thumbnail {
     display: block;
     margin: 0px auto;
+}
+
+/* small screen class - for example: tablets */
+@media only screen and (max-width: 768px) {
+    #portfolio-content {
+        width: 375px;
+    }
+
+    .row {
+        flex-direction: column;
+    }
+
+    .col {
+        margin: 0px 10px 10px 10px;
+    }
+}
+
+/* large screen class - for example: desktop or laptop browser */
+@media only screen and (max-width: 992px) {
+
 }
