@@ -36,6 +36,31 @@
 }
 
 /* large screen class - for example: desktop or laptop browser */
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 992px) and (min-width: 769px) {
+    .container {
+        width: 100%;
+        max-width: 100%;
+    }
 
+    .col {
+        margin-bottom: 20px;
+    }
+
+    .row {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+}
+
+/* extra-large screen class - for example: desktop or laptop browser */
+@media only screen and (min-width: 993px) {
+    .col {
+        margin-bottom: 20px;
+    }
+
+    .row {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
 }

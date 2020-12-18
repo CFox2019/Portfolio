@@ -48,7 +48,10 @@ h1 {
 }
 
 /* large screen class - for example: desktop or laptop browser */
-@media only screen and (max-width: 992px) {
-
+@media only screen and (max-width: 992px) and (min-width: 769px) {
+    .container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
 }
 
