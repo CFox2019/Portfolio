@@ -32,6 +32,10 @@ h1 {
     font-weight: 600;
 }
 
+#main-content {
+    padding-bottom: 150px;
+}
+
 .container-fluid {
     padding-left: 0px;
     padding-right: 0px;
@@ -40,6 +44,16 @@ h1 {
 .container {
     padding-left: 0px;
     padding-right: 0px;
+}
+
+footer {
+    position: fixed;
+    background-color:#002a46;
+    height: 150px;
+    width: 100%;
+    bottom: 0px;
+    padding: 10px;
+    color: #ffffff;
 }
 
 /* large screen class - for example: desktop or laptop browser */
