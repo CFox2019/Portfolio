@@ -5,10 +5,9 @@
     background-color: #f2f2f2;
     padding: 20px 0px;
     margin: 20px 0px;
-    border: 2px solid white;
+    border: 2px solid #ffffff;
     border-radius: 20px;
     max-width: 800px;
-    display: inline-block;
 }
 
 .row {
@@ -28,11 +27,16 @@
 @media only screen and (max-width: 768px) and (min-width: 401px) {
     #portfolio-content {
         padding: 20px;
+        display: inline-block;
     }
 }
 
 /* large screen class - for example: desktop or laptop browser */
 @media only screen and (max-width: 992px) and (min-width: 769px) {
+    #portfolio-content {
+        display: inline-block;
+    }
+
     .col {
         margin-bottom: 20px;
     }
@@ -46,6 +50,10 @@
 
 /* extra-large screen class - for example: desktop or laptop browser */
 @media only screen and (min-width: 993px) {
+    #portfolio-content {
+        display: inline-block;
+    }
+
     .col {
         margin-bottom: 20px;
     }
