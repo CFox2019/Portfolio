@@ -10,6 +10,10 @@
     max-width: 800px;
 }
 
+h1 {
+    padding-left: 20px;
+}
+
 .row {
     flex-direction: column;
 }
@@ -29,12 +33,20 @@
         padding: 20px;
         display: inline-block;
     }
+
+    h1 {
+        padding-left: 0px;
+    }
 }
 
 /* large screen class - for example: desktop or laptop browser */
 @media only screen and (max-width: 992px) and (min-width: 769px) {
     #portfolio-content {
         display: inline-block;
+    }
+
+    h1 {
+        padding-left: 0px;
     }
 
     .col {
@@ -52,6 +64,10 @@
 @media only screen and (min-width: 993px) {
     #portfolio-content {
         display: inline-block;
+    }
+
+    h1 {
+        padding-left: 0px;
     }
 
     .col {
