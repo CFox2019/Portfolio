@@ -14,6 +14,11 @@ h1 {
     padding-left: 20px;
 }
 
+h4 {
+    text-align: center;
+    color: #66b0ff;
+}
+
 .row {
     flex-direction: column;
 }

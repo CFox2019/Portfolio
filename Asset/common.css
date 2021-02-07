@@ -46,6 +46,10 @@ h1 {
     padding-right: 0px;
 }
 
+a {
+    text-decoration: none;
+}
+
 footer {
     position: fixed;
     background-color:#002a46;
