@@ -1,12 +1,20 @@
 @import "common.css";
 
 #contact-form {
+    font-size: larger;
     font-family: 'Quicksand', sans-serif;
-    background-color: #f2f2f2;
+    font-weight: bold;
+    background-color:  #EFE1CE;
     padding: 20px;
     margin: 20px 0px;
-    border: 1px solid #ffffff;
+    border: 3px solid #363945;
     border-radius: 20px;
     max-width: 800px;
+}
+
+.btn {
+    background-color: #363945;
+    color: #E0B589;
+    font-size: larger;
 }
 

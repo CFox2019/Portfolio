@@ -1,34 +1,41 @@
 body {
-    background-color: #66b0ff;
+    background-color: #E0B589;
 }
 
 header {
+    background-color: #EFE1CE;
     padding-left: 4px;
     padding-right: 4px;
 }
 
 .navbar-light .navbar-brand {
-    color: #66b0ff;
+    color: #363945;
+    background-color: #EFE1CE;
     font-size: 2.5em;
     font-family: 'Quicksand', sans-serif;
     font-weight: 600;
 }
 
+li {
+    color: #363945;
+}
+
 .navbar-light .navbar-nav .nav-link.active {
-    color: #3680cf;
+    background-color: #EFE1CE;
     font-family: 'Quicksand', sans-serif;
     font-size: 1em;
     font-weight: 600;
 }
+
 .navbar-light .navbar-nav .nav-link {
-    color: #66b0ff;
+    background-color: #EFE1CE;
     font-family: 'Quicksand', sans-serif;
     font-size: 1em;
     font-weight: 600;
 }
 
 h1 {
-    color: #66b0ff;
+    color: #E0B589;
     font-weight: 600;
 }
 
@@ -52,12 +59,12 @@ a {
 
 footer {
     position: fixed;
-    background-color:#002a46;
+    background-color: #363945;
     height: 150px;
     width: 100%;
     bottom: 0px;
     padding: 10px;
-    color: #ffffff;
+    color:#E0B589;
 }
 
 /* large screen class - for example: desktop or laptop browser */
