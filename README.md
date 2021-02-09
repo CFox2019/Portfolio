@@ -8,7 +8,7 @@ I have also included a contact form and a 'Portfolio' page that will display my 
 ## Links:
 * [Linkedin](https://www.linkedin.com/in/cdfox/)
 * [GitHub](https://github.com/CFox2019)
-* [GitHub-Repository] (https://github.com/CFox2019/Portfolio)
+* [GitHub-Repository](https://github.com/CFox2019/Portfolio)
 * [Deployed-link](https://cfox2019.github.io/Portfolio/)
 
 
