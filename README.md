@@ -2,7 +2,7 @@
 
 Within the About Me section of my portfolio, I have included a brief description about myself and my strengths, as well as a link to my linkedin and github repositories.
 
-I have also included a contact form and a 'Portfolio' page that will display my future projects.
+I have also included a contact form and a 'Portfolio' page that will display my projects.
 
 
 ## Links:
