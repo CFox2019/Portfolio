@@ -16,7 +16,10 @@ I have also included a contact form and a 'Portfolio' page that will display my 
 * [GitHub-Repository](https://github.com/CFox2019/Portfolio)
 * [Deployed-link](https://cfox2019.github.io/Portfolio/)
 
+## Questions
+* Github: [CFox2019](CFox2019)
 
+* Email me at [courtney.fox@me.com](courtney.fox@me.com) with additional questions.
 ### Credits
 
 My resources include the following:
